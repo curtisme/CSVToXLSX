@@ -1,0 +1,3 @@
+Name,Value,Description
+OrchestratorQueueName,ProcessABCQueue,Orchestrator queue Name. The value must match with the queue name defined on Orchestrator.
+logF_BusinessProcessName,Framework,Logging field which allows grouping of log data of two or more subprocesses under the same business process name
